@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Training Deep Learning Model on Distributed System
-- 🌱 I’m currently learning ... LLM
+- 🌱 I’m currently learning ... AI
 - 👯 I’m looking to collaborate on ... Deep Learning
 - 🤔 I’m looking for help with ... DLOps
 - 💬 Ask me about ... Anything
